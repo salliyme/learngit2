@@ -4,4 +4,4 @@ Git has  a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Something is important.
-Issue-101 fixed.
+Issue-101 fixed.this is addtional message.
